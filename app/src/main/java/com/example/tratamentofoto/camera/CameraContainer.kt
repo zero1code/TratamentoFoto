@@ -29,7 +29,7 @@ fun CameraContainer(
     onImageWithEntrapmentClick: () -> Unit,
 ) {
 
-    
+
 }
 
 fun Context.createTempPictureUri(
